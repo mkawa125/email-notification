@@ -1,0 +1,13 @@
+{
+    "name": "root/email-notication",
+    "description": "Email notification package",
+    "type": "metapackage",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dahabu saidi",
+            "email": "dahabusaidi@gmail.com"
+        }
+    ],
+    "require": {}
+}
