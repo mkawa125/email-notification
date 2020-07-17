@@ -9,5 +9,12 @@
             "email": "dahabusaidi@gmail.com"
         }
     ],
+
+    "autoload": {
+        "psr-4": {
+            "IPFSoftwares\\ResponseFormatter\\": "src"
+        }
+    },
+
     "require": {}
 }
